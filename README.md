@@ -1,7 +1,7 @@
 # Mixed Messages
 A fun project that generates a random sports car with random color and model
 ## Inspiration
-Codecademy Project Mixed Message and [@CustomHaven]
+Codecademy Project Mixed Message and [@CustomHaven](https://github.com/CustomHaven)
 ## General Information
 
 ### Technologies used
